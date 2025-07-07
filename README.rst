@@ -371,3 +371,4 @@ In the ``rcognita`` code, the following convention is used.
 *  All vectors are treated as of type ``[n,]``.
 *  All buffers are treated as of type ``[L, n]`` where each row is a vector.
 *  Buffers are updated from bottom to top.
+
