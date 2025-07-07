@@ -222,3 +222,4 @@ class Simulator:
             self.t = self.t0
             # self.state_full = self.state_full_init
             self.ODE_solver.y = self.state_full_init
+            
